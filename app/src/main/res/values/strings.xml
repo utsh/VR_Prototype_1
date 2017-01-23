@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">VR_Prototype_1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_vr__view">VR_View</string>
+
+
+    <string-array name="sample_categories">
+
+        <item>1 Client Recognition</item>
+
+        <item>2 Cloud Recognition</item>
+
+        <item>3 Rendering</item>
+
+        <item>4 Plugins</item>
+
+        <item>5 Camera Control</item>
+
+    </string-array>
+
+
+    -
+    <string-array name="clientRecognition_samples">
+
+        <item>1.1 Simple</item>
+
+        <item>1.2 Extended Tracking</item>
+
+        <item>1.3 Tracking 3D</item>
+
+    </string-array>
+
+
+    -
+    <string-array name="cloudRecognition_samples">
+
+        <item>2.1 On-Click</item>
+
+        <item>2.2 Continuous Mode</item>
+
+    </string-array>
+
+
+    -
+    <string-array name="rendering_samples">
+
+        <item>3.1 Internal Rendering</item>
+
+        <item>3.2 External Rendering</item>
+
+    </string-array>
+
+
+    -
+    <string-array name="plugins_samples">
+
+
+        <item>4.2 Face Detection</item>
+
+        <item>4.3 Custom Camera</item>
+
+    </string-array>
+
+
+    -
+    <string-array name="cameraControl_samples">
+
+        <item>5.1 Control</item>
+
+    </string-array>
+
+    <string name="on_click_cloud_tracking_recognize_button">Recognize</string>
+
+    <string name="camera_control_flash">Flashlight</string>
+
+    <string name="camera_control_zoom">Zoom</string>
+
+    <string name="tracking_quality_indicator_bad">Tracking Quality: Bad</string>
+
+    <string name="tracking_quality_indicator_average">Tracking Quality: Average</string>
+
+    <string name="tracking_quality_indicator_good">Tracking Quality: Good</string>
+
+    <string name="barcode_hint">Scan the target image and/or any barcode</string>
+
+    <string name="tracking_map_recorder">Tracking Map\nRecorder</string>
+
+    <string name="tracking_recorder_start_recording">Start Recording</string>
+
+    <string name="tracking_recorder_stop_recording">Stop Recording</string>
+
+    <string name="send_tracking_map_recording">Send Tracking Map to …</string>
+
+    <string name="tracking_map_save_message">Saving file, please wait …</string>
+
+    <string name="client_tracking_3d_save_message">Please wait, while the Tracking Map is being saved and loaded ...</string>
+
+    <string name="tracking_map_recorder_save_successful">Saved successfully ...</string>
+
+    <string name="tracking_map_recorder_discard_button">Discard</string>
+
+    <string name="tracking_map_recorder_share_button">Share</string>
+
+    <string name="tracking_map_recorder_file_name_label">Tracking Map filename</string>
+
+
+    -
+    <string-array name="camera_positions">
+
+        <item>Back Camera</item>
+
+        <item>Front Camera</item>
+
+    </string-array>
+    <string name="flat">Flat</string>
+    <string name="default_info_title">Default Location</string>
+    <string name="default_info_snippet">No places found, because location permission is disabled.</string>
+    <string name="go_to_bondi">Go to Bondi</string>
+    <string name="go_to_santorini">Go to Santorini</string>
+    <string name="go_to_sydney">Go to Sydney</string>
+    <string name="play_services_not_installed">Google Play services is not installed on this device.</string>
+    <string name="tilt">Tilt Gestures</string>
+    <string name="tilt_less">\u2193</string>
+    <string name="tilt_more">\u2191</string>
+    <string name="zoom_buttons">Zoom Buttons</string>
+    <string name="zoom_gestures">Zoom Gestures</string>
+    <string name="zoom_in">+</string>
+    <string name="zoom_out">-</string>
+    <string name="duration">Custom Duration</string>
+    <string name="animate">Animate</string>
+    <string name="stop_animation">\u25A0</string>
+    <string name="map_not_ready">Map is not ready yet</string>
+
+    <string name="left_arrow">\u2190</string>
+    <string name="right_arrow">\u2192</string>
+    <string name="down_arrow">\u2193</string>
+    <string name="up_arrow">\u2191</string>
+
+
+
+    -
+    <string-array name="focus_mode">
+
+        <item>Focus Continuously</item>
+
+        <item>Focus Once</item>
+
+    </string-array>
+
+    <string name="title_activity_custom_camera">CustomCameraActivity</string>
+    <string name="title_activity_geo__location">Geo_Location</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
